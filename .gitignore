@@ -1,2 +1,7 @@
 *.class
 *.log
+.idea/
+docker/
+*.sh
+project/target/
+target/

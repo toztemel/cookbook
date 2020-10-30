@@ -7,7 +7,6 @@ How to run neo4j
 $ cd ./docker
 $ docker-compose up
 ```
-See https://medium.com/neo4j/neotypes-part-1-akka-http-neo4j-6cab38d077d4  
 How to run app
 `$ sbt run`
 ## Usage
@@ -27,12 +26,6 @@ Edit:   http://localhost:9000/admin.html
 ## Credits
 ## License
 ## Dependencies
-* NEOTYPES
-    * https://github.com/neotypes/neotypes 
-    * https://neotypes.github.io/neotypes/docs.html  
-    * http://dimafeng.com/2018/12/27/neotypes-1/  
-    * https://github.com/neotypes/examples  
-    * https://medium.com/neo4j/neotypes-part-1-akka-http-neo4j-6cab38d077d4
 * Clojure
     * [Getting started](https://clojure.org/guides/getting_started)
     * [Clojure by example](https://kimh.github.io/clojure-by-example/#hello-world)
@@ -48,6 +41,7 @@ Edit:   http://localhost:9000/admin.html
     * https://thedomaindrivendesign.io/learning-map/
 
 ## TODO
+* [ ] Define docs/spec's
 * [ ] Define domain and ubiquitous language
 * [ ] Entities
 * [ ] Value Objects

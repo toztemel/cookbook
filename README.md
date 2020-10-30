@@ -34,7 +34,10 @@ Edit:   http://localhost:9000/admin.html
     * https://github.com/neotypes/examples  
     * https://medium.com/neo4j/neotypes-part-1-akka-http-neo4j-6cab38d077d4
 * Clojure
+    * [Getting started](https://clojure.org/guides/getting_started)
     * [Clojure by example](https://kimh.github.io/clojure-by-example/#hello-world)
+* Neq4j
+    * [concepts](https://neo4j.com/docs/getting-started/current/graphdb-concepts/)
     * [Neo4j for clojure developers](https://neo4j.com/developer/clojure/)
 ## Other dependencies
 * MD guides
